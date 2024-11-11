@@ -6,11 +6,11 @@ Chromium is made possible by the Chromium open source project and other open sou
 
 -How To Open Chromium Browser :
 
-(1) Download & Extract Win_812888_chrome-win.zip File.
+(1) Download & Extract `Win_812888_chrome-win.zip` File.
 
-(2) After Extracting Open chrome-win Folder.
+(2) After Extracting Open `chrome-win` Folder.
 
-(3) Open Chrome.exe File & Enjoy!.
+(3) Open `Chrome.exe` File & Enjoy!.
 
 
 Copyright 2024 The Chromium Authors. All rights reserved.
